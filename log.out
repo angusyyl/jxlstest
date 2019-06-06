@@ -1,0 +1,64 @@
+Running JXLS demo
+SPI org.jxls.util.ServiceFactory => org.jxls.util.ServiceFactoryDefaultImpl@421faab1
+you may change the SPI on file: META-INF/services/org.jxls.util.ServiceFactory
+SPI org.jxls.util.JxlsConfigProvider => org.jxls.util.JxlsConfigProviderImpl@4b85612c
+you may change the SPI on file: META-INF/services/org.jxls.util.JxlsConfigProvider
+Transformer class is org.jxls.transform.poi.PoiTransformer
+SPI org.jxls.expression.ExpressionEvaluatorFactory => org.jxls.expression.ExpressionEvaluatorFactoryJexlImpl@1877ab81
+you may change the SPI on file: META-INF/services/org.jxls.expression.ExpressionEvaluatorFactory
+Applying XlsArea at Result!A1
+Applying XlsArea at Result!A4
+Applying XlsArea at Result!A5
+
++ Profiler [MyMainProfiler]
+|-- elapsed time           [genJXLS task]   316.998 milliseconds.
+|-- Total                [MyMainProfiler]   317.333 milliseconds.
+
+Running JXLS demo
+SPI org.jxls.util.ServiceFactory => org.jxls.util.ServiceFactoryDefaultImpl@421faab1
+you may change the SPI on file: META-INF/services/org.jxls.util.ServiceFactory
+SPI org.jxls.util.JxlsConfigProvider => org.jxls.util.JxlsConfigProviderImpl@4b85612c
+you may change the SPI on file: META-INF/services/org.jxls.util.JxlsConfigProvider
+Transformer class is org.jxls.transform.poi.PoiTransformer
+SPI org.jxls.expression.ExpressionEvaluatorFactory => org.jxls.expression.ExpressionEvaluatorFactoryJexlImpl@1877ab81
+you may change the SPI on file: META-INF/services/org.jxls.expression.ExpressionEvaluatorFactory
+Applying XlsArea at Result!A1
+Applying XlsArea at Result!A4
+Applying XlsArea at Result!A5
+
++ Profiler [MyMainProfiler]
+|-- elapsed time           [genJXLS task]   479.119 milliseconds.
+|-- Total                [MyMainProfiler]   479.426 milliseconds.
+
+Running JXLS demo
+SPI org.jxls.util.ServiceFactory => org.jxls.util.ServiceFactoryDefaultImpl@421faab1
+you may change the SPI on file: META-INF/services/org.jxls.util.ServiceFactory
+SPI org.jxls.util.JxlsConfigProvider => org.jxls.util.JxlsConfigProviderImpl@4b85612c
+you may change the SPI on file: META-INF/services/org.jxls.util.JxlsConfigProvider
+Transformer class is org.jxls.transform.poi.PoiTransformer
+SPI org.jxls.expression.ExpressionEvaluatorFactory => org.jxls.expression.ExpressionEvaluatorFactoryJexlImpl@1877ab81
+you may change the SPI on file: META-INF/services/org.jxls.expression.ExpressionEvaluatorFactory
+Applying XlsArea at Result!A1
+Applying XlsArea at Result!A4
+Applying XlsArea at Result!A5
+
++ Profiler [MyMainProfiler]
+|-- elapsed time           [genJXLS task]   642.199 milliseconds.
+|-- Total                [MyMainProfiler]   642.561 milliseconds.
+
+Running JXLS demo
+SPI org.jxls.util.ServiceFactory => org.jxls.util.ServiceFactoryDefaultImpl@421faab1
+you may change the SPI on file: META-INF/services/org.jxls.util.ServiceFactory
+SPI org.jxls.util.JxlsConfigProvider => org.jxls.util.JxlsConfigProviderImpl@4b85612c
+you may change the SPI on file: META-INF/services/org.jxls.util.JxlsConfigProvider
+Transformer class is org.jxls.transform.poi.PoiTransformer
+SPI org.jxls.expression.ExpressionEvaluatorFactory => org.jxls.expression.ExpressionEvaluatorFactoryJexlImpl@1877ab81
+you may change the SPI on file: META-INF/services/org.jxls.expression.ExpressionEvaluatorFactory
+Applying XlsArea at Result!A1
+Applying XlsArea at Result!A4
+Applying XlsArea at Result!A5
+
++ Profiler [MyMainProfiler]
+|-- elapsed time           [genJXLS task]   728.146 milliseconds.
+|-- Total                [MyMainProfiler]   729.096 milliseconds.
+
